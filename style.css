@@ -1,0 +1,48 @@
+body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.header{
+    background-color: black;
+    margin: 0px;
+}
+.head{
+    color: white;
+    font-size: 40px;
+    padding: 10px;
+}
+.body {
+    justify-content: center;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.head span {
+    color: blue;
+    font-size: 40px;
+}
+.text-1 {
+    color: blue;
+    font-size: 35px;
+}
+.story span {
+    color: blue;
+    font-style: italic;
+}
+.story-2 span{
+    font-weight: bold;
+}
+.gradient {
+    background-color: burlywood;
+}
+.gradient span {
+    color: yellow;
+}
+footer {
+    background-color: black;
+    padding: 20px;
+}
+.footer {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
