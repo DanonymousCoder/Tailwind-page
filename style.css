@@ -1,7 +1,5 @@
-body{
+.body {
     align-items: center;
-    justify-content: center;
-    text-align: center;
 }
 .header{
     background-color: black;
@@ -11,6 +9,7 @@ body{
     color: white;
     font-size: 40px;
     padding: 10px;
+    text-align: center;
 }
 .body {
     justify-content: center;
@@ -24,6 +23,16 @@ body{
 .text-1 {
     color: blue;
     font-size: 35px;
+    text-align: center;
+}
+.front {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
 }
 .story span {
     color: blue;
@@ -33,7 +42,11 @@ body{
     font-weight: bold;
 }
 .gradient {
-    background-color: burlywood;
+    background-color:#14c9cb;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 15px;
+    text-align: left;
 }
 .gradient span {
     color: yellow;
@@ -45,4 +58,5 @@ footer {
 .footer {
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
